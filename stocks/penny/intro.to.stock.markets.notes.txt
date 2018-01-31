@@ -1,0 +1,68 @@
+Ins and outs of the Stock Market
+======================================
+*	When a company goes public, it lists
+	its shares on a stock market, also
+	called an "exchange".
+
+*	Investorsy buy and sell those
+	shares throough their brokers.
+
+*	The New York Stock Exchange(NYSE)
+	is the biggest stock exchange,
+	but there are numberous others in
+	North America and around the world.
+
+
+*	Getting listed on a stock exchange
+	also known s being "publicly traded",
+	can have numerous benefits for 
+	a company.  On the other hand, it 
+	can be detrimental to lose the listing,
+	or to be on an inappropiate stock exchange
+
+
+*	Penny stocks may trade on any one of the
+	numerous exchanges, and which exchange
+	can be your first clue as to the quality
+	of legitimacy of the underlying company.
+	Although you will rearely find a penny stock
+	listed on the high-quality exchanges, such as
+	the NYSE, certain stock markets house
+	many penny stocks, and are vastly superior to the
+	few questionable markets filled with low-quality
+	
+*	Companies enjoy listing on a reputable stock
+	market because it gives them credibility
+	and the greater visibility for the shares that
+	comes with more popular markets, whih makes it
+	easier to raise funds when required.  As
+	well, being listed on a quality exchange
+	usually results in a greater number of 
+	investors trading the shares, and this 
+	increased activity is typically beneficial
+	to the share price.
+
+import android.content.Intent
+import android.support.v7.app.AppCompatActivity
+import android.os.Bundle
+import android.widget.TextView
+
+Factors influencing which exchange a company lists
+====================================================
+The majority of publicly traded companies, and certainly all the
+more serious and professional ones, have a listing on a stock
+exchage.  Before they trade, however, or before they must
+take several factors into account:
+
+
+	Fees: The greater the benefit from the listing, the higher
+	the fees will be for listing on the the exchange.
+	Companies may hundreds of thousands of dollars to be listed
+	initally on the New York Exchange, along with $5000 to 
+	$40,000 in fees annyally, depending on the company.   A
+	liting on markets with lower visibility costs considerably less.
+
+
+
+
+
